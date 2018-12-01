@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yikko0</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-30T16:08:42.592Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>严子懿</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一次周报</title>
+    <link href="http://yoursite.com/2018/11/30/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%91%A8%E6%8A%A5/"/>
+    <id>http://yoursite.com/2018/11/30/第一次周报/</id>
+    <published>2018-11-30T14:08:22.751Z</published>
+    <updated>2018-11-30T16:08:42.592Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-本周学习方向"><a href="#1-本周学习方向" class="headerlink" title="1.本周学习方向"></a>1.本周学习方向</h3><p>Java入门<br>Git入门</p><h3 id="2-学习参考"><a href="#2-学习参考" class="headerlink" title="2.学习参考"></a>2.学习参考</h3><p>Java入门:  //<a href="https://www.cnblogs.com/adamjwh/" target="_blank" rel="noopener">JAdam</a>//  Java学习指南，易理解<br>Git入门:  //<a href="https://space.bilibili.com/33165125" target="_blank" rel="noopener">代码真香</a>//  在B站认识的一位大佬，文章很干货，很深入，很多内容以我现在还看不懂，能懂得我感觉讲的挺好</p><h3 id="3-总结"><a href="#3-总结" class="headerlink" title="3.总结"></a>3.总结</h3><ol><li>学习感悟<br> 有了C语言的基础，Java学起来感觉轻松一些，说下我的感觉吧，相较于C语言，Java带给我的感觉就是方便，能够让我更多的偷懒，确实，C面向过程，Java面向对象，C语言能够让我们更好地去理解编程语言的实现过程，感受到了C语言确实非常重要，它是基础，基本功扎实，才能走的更远。<br>同时，这里我表达一下我对学习编程语言的感触，<br> 从第一次接触电脑，到初识C语言，由于乏味的代码放弃，再重新燃起兴趣，面对日复一日的面对电脑做着同样的事情，想到变得强大后美好生活，在放弃与努力间不断徘徊。<br>这就是对我前面学习之路的最好总结了，学习就是这样，想要一夜暴富是不可能的，日积月累，失败中成长，成功时的快感是最令人兴奋的，就像当初学习C语言，一开始模模糊糊，慢慢地变得清晰，有的概念当时绞尽脑汁也想不通，有的算法读几十遍都不知道为什么会是这个结果，过了好久，就在那一瞬间，“哦~ ”顿悟了，现在回想起那些基本概念，不过如此，好像还是很好理解啊，所以，学习不能急躁，现在不会，只要我努力，总有会的时候，加油！</li><li>关于Git<br>由于搭建博客时用到了Git，就想了解下这个东西，并且正好在B站上看到了Git入门，于是就了解了一下，Git是什么呢？<br>用<a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001373962845513aefd77a99f4145f0a2c7a7ca057e7570000" target="_blank" rel="noopener">廖雪峰</a> 的话来讲：<br>Git是目前世界上最先进的分布式版本控制系统（没有之一）。<br>Git有什么特点？<br>简单来说就是：高端大气上档次！</li></ol><p>其实，简单点说，Git就是一款软件，它用来方便管理文件。</p><h3 id="4-LeetCode"><a href="#4-LeetCode" class="headerlink" title="4.LeetCode"></a>4.LeetCode</h3><ol><li>代码<br>题一(反转字符串):<a href="https://paste.ubuntu.com/p/GJR44vptSz/" target="_blank" rel="noopener">https://paste.ubuntu.com/p/GJR44vptSz/</a><br>题二(整数反转):<a href="https://paste.ubuntu.com/p/pdCQJSx2T7/" target="_blank" rel="noopener">https://paste.ubuntu.com/p/pdCQJSx2T7/</a></li><li>思考<br>这两道题虽然简单，但是第一次尝试都没通过，原因我没考虑周全，忽略了一些约束，以后还得多加小心了。</li></ol><h3 id="5-下周进度"><a href="#5-下周进度" class="headerlink" title="5.下周进度"></a>5.下周进度</h3><p>继续学习Java，以及SQL数据库</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;1-本周学习方向&quot;&gt;&lt;a href=&quot;#1-本周学习方向&quot; class=&quot;headerlink&quot; title=&quot;1.本周学习方向&quot;&gt;&lt;/a&gt;1.本周学习方向&lt;/h3&gt;&lt;p&gt;Java入门&lt;br&gt;Git入门&lt;/p&gt;
+&lt;h3 id=&quot;2-学习参考&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/11/05/hello-world/"/>
+    <id>http://yoursite.com/2018/11/05/hello-world/</id>
+    <published>2018-11-05T09:02:19.251Z</published>
+    <updated>2018-11-05T09:02:19.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
