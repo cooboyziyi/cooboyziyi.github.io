@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[第一次周报]]></title>
+    <url>%2F2018%2F11%2F30%2F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%91%A8%E6%8A%A5%2F</url>
+    <content type="text"><![CDATA[1.本周学习方向Java入门Git入门 2.学习参考Java入门: //JAdam// Java学习指南，易理解Git入门: //代码真香// 在B站认识的一位大佬，文章很干货，很深入，很多内容以我现在还看不懂，能懂得我感觉讲的挺好 3.总结 学习感悟 有了C语言的基础，Java学起来感觉轻松一些，说下我的感觉吧，相较于C语言，Java带给我的感觉就是方便，能够让我更多的偷懒，确实，C面向过程，Java面向对象，C语言能够让我们更好地去理解编程语言的实现过程，感受到了C语言确实非常重要，它是基础，基本功扎实，才能走的更远。同时，这里我表达一下我对学习编程语言的感触， 从第一次接触电脑，到初识C语言，由于乏味的代码放弃，再重新燃起兴趣，面对日复一日的面对电脑做着同样的事情，想到变得强大后美好生活，在放弃与努力间不断徘徊。这就是对我前面学习之路的最好总结了，学习就是这样，想要一夜暴富是不可能的，日积月累，失败中成长，成功时的快感是最令人兴奋的，就像当初学习C语言，一开始模模糊糊，慢慢地变得清晰，有的概念当时绞尽脑汁也想不通，有的算法读几十遍都不知道为什么会是这个结果，过了好久，就在那一瞬间，“哦~ ”顿悟了，现在回想起那些基本概念，不过如此，好像还是很好理解啊，所以，学习不能急躁，现在不会，只要我努力，总有会的时候，加油！ 关于Git由于搭建博客时用到了Git，就想了解下这个东西，并且正好在B站上看到了Git入门，于是就了解了一下，Git是什么呢？用廖雪峰 的话来讲：Git是目前世界上最先进的分布式版本控制系统（没有之一）。Git有什么特点？简单来说就是：高端大气上档次！ 其实，简单点说，Git就是一款软件，它用来方便管理文件。 4.LeetCode 代码题一(反转字符串):https://paste.ubuntu.com/p/GJR44vptSz/题二(整数反转):https://paste.ubuntu.com/p/pdCQJSx2T7/ 思考这两道题虽然简单，但是第一次尝试都没通过，原因我没考虑周全，忽略了一些约束，以后还得多加小心了。 5.下周进度继续学习Java，以及SQL数据库]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F05%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
